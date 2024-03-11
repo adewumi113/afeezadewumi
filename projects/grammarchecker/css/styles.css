@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+}
+#result{
+    color: goldenrod;
+    font: 1.2em Raleway, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}

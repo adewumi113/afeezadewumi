@@ -1,0 +1,22 @@
+html{
+    font-size: larger;
+}
+body{
+    text-align: center;
+}
+h3{
+    font-family: Raleway;
+    animation: dance 1s infinite;
+    color: blue;
+}
+img{
+    height: 20%;
+    width: 30%;
+}
+
+@keyframes dance {
+    0% { transform: rotate(0deg); }
+    25% { transform: rotate(5deg); }
+    75% { transform: rotate(-5deg); }
+    100% { transform: rotate(0deg); }
+  }
